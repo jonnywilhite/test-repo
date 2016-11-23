@@ -1,1 +1,1 @@
-This is file B. It is also awesome
+This is file B
