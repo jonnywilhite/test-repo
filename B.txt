@@ -1,1 +1,1 @@
-This is file B
+This is file B. It is also awesome and should STAY this way.
